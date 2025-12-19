@@ -14,3 +14,17 @@ git init
 git add .
 git commit -m "tailwind-cli"
 git push origin main
+
+
+
+
+
+
+
+---- cretae a branch
+git branch --> how many branch in repo 
+git branch <branch name >
+ex. git branch devlopment 
+git branch
+git checkout < branch name >>
+ex. git checkout development 
